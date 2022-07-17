@@ -1,0 +1,28 @@
+{
+  "cSpell.words": [
+    "Bayville",
+    "bgcolor",
+    "Daytona",
+    "Glynn",
+    "Grammatico",
+    "Halpern",
+    "Intracoastal",
+    "Lucie",
+    "Marcinski",
+    "Mavic",
+    "Nuñez",
+    "NYPD",
+    "Oceanview",
+    "pdblue",
+    "Saloio",
+    "Sturbridge",
+    "Tisbury",
+    "valign",
+    "webversion",
+    "Westfield"
+  ],
+  "editor.scrollbar.horizontalScrollbarSize": 24,
+  "editor.scrollbar.verticalScrollbarSize": 35,
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext", "html"]
+}
